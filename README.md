@@ -7,7 +7,7 @@ Features
 - Delete Tasks : Remove tasks by ID.
 
 
- git clone https://github.com/swatisubhashree17/task-manager.git
+ https://github.com/swatisubhashree17/Task_manager.git
  
  cd task-manager
 python task_manager.py
